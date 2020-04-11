@@ -1,3 +1,5 @@
+## Machine Learning
+
 | Title | Topics | Links |
 | ----- | ------ | ------ |
 | Machine Learning - I | Basic ML Concepts: | [Slide](https://docs.google.com/presentation/d/e/2PACX-1vRiiSgp4IBOOUrWHBK7irxsm6zcaSnVdKOmeWeXwsgAWhNFfZIDLBtqhafgxIlt1evXwLNMvVqhJ89Q/pub?start=false&loop=false&delayms=3000) |
@@ -10,3 +12,4 @@
 | Machine Learning - II | Transfer Learning - I | [Video](https://www.youtube.com/watch?v=yofjFQddwHE) |
 | Machine Learning - II | Transfer Learning - II | [Video](https://www.youtube.com/watch?v=mPFq5KMxKVw) |
 | Machine Learning - II | Reinforcement Learning | [Video](https://www.youtube.com/watch?v=nZfaHIxDD5w) |
+| Assignment - I | Machine Learning | [Open in Colab](https://colab.research.google.com/github/bcs-iitk/BCS_Workshop_Apr_20/blob/master/Machine_Learning/Assignment/ML.ipynb) |
